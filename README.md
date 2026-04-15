@@ -7,7 +7,7 @@ This repository contains Jupyter Notebook lab files designed to help readers dee
 ## Environment
 
 - **Most labs** are intended to be run on [Google Colab](https://colab.research.google.com/). The notebooks include pre-run outputs so you can see the expected results before attempting the exercises.
-- **Some labs** that require significant computation time were executed on a local PC rather than Colab.
+- **Some labs** that require significant computation time were executed on a local PC with a RTX 4090 rather than Colab.
 
 ## Known Issues
 
