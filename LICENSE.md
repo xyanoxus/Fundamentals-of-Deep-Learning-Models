@@ -1,0 +1,12 @@
+This work is licensed under the Creative Commons Attribution-NoDerivatives 4.0 
+International License (CC BY-ND 4.0).
+
+You are free to:
+- Share: copy and redistribute the material in any medium or format for any purpose.
+
+Under the following terms:
+- Attribution: You must give appropriate credit.
+- NoDerivatives: If you remix, transform, or build upon the material, 
+  you may not distribute the modified material.
+
+Full license text: https://creativecommons.org/licenses/by-nd/4.0/legalcode
