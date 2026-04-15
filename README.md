@@ -11,7 +11,7 @@ This repository contains Jupyter Notebook lab files designed to help readers dee
 
 ## Known Issues
 
-- **Transformer lab** (as of April 15, 2026): The transformer exercise code has been previously verified and confirmed to work correctly. However, due to an ongoing issue with the original dataset's hosting site, this lab **cannot be executed at this time**. We will update the notebook once the data source becomes available again.
+- **Transformer lab** (as of April 15, 2026): The transformer exercise code has been previously verified and confirmed to work correctly. However, due to an ongoing issue with the original dataset's hosting site, this lab **cannot be executed at this time**. I will update the notebook once the data source becomes available again.
 
 ## License
 
