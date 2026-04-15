@@ -2,7 +2,7 @@
 
 [![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC_BY--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nd/4.0/)
 
-This repository contains Jupyter Notebook lab files designed to help readers deepen their understanding of the concepts covered in *Fundamentals of Deep Learning Models*. Each lab provides hands-on exercises where key code sections are left **blank** for you to complete on your own.
+This repository contains Jupyter Notebook lab files designed to help readers deepen their understanding of the concepts covered in [*Fundamentals of Deep Learning Models](http://www.amazon.com/dp/B0GVPQHFNT)*. Each lab provides hands-on exercises where key code sections are left **blank** for you to complete on your own.
 
 ## Environment
 
